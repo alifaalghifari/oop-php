@@ -1,0 +1,8 @@
+Visibility adalah metode-metode yang dapat digunakan dalam pembuatan property dan method pada class.
+Metode-metode ini nantinya sebagai pembatas pengaksesan property dan method yang membentuknya.
+
+Ada 3 jenis Visibility atau acces modifier :
+1. public, Dengan menggunakan acces ini maka property atau method yang membentuknya dapat di akses di
+            luar class nya.
+2. private, Property atau method yang  membentuknya hanya dapat di akses di dalam class dan class turunannya.
+3. private, Property atau method yang membentuknya hanya dapat di akses didalma classnya.
